@@ -17,7 +17,7 @@ Ao executar esse script, o usuário pode especificar o endereço IP do servidor 
 
 
 ## Instalação 🔧✅
-Para utilizar o "Consultas_BLT", basta colocar os comandos abaixo para executar o script no terminal. O usuário deve inserir os dados que deseja consultar e o script irá retornar as informações relevantes. 📝:
+Para utilizar o "F-DDOS", basta colocar os comandos abaixo para executar o script no terminal. 📝:
 ```sh
 git clone https://github.com/FoxsBlintersOFC07/F-DDOS.git
 cd F-DDOS.py
