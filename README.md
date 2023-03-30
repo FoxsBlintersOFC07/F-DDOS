@@ -1,4 +1,4 @@
-#🦊☠️F-DDOS V1.0☠️🦊
+##🦊☠️F-DDOS V1.0☠️🦊
 <h1 align="center">Introdução📋:</h1>
 
 Este script foi criado para permitir a realização de ataques de negação de serviço (DoS) distribuídos (DDoS). Ele usa força bruta para enviar vários pedidos HTTP para um servidor web específico, o que resulta em um grande aumento na carga de trabalho do servidor, tornando-o lento ou até mesmo inacessível. O script foi projetado para ser simples de usar, permitindo que qualquer pessoa possa executar um ataque DDoS com apenas alguns cliques.es e intuitiva, o script permite que o usuário insira os dados que deseja consultar e obtenha as informações relevantes de forma rápida e fácil. 🚀
