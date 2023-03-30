@@ -1,8 +1,7 @@
 ## 🦊☠️F-DDOS V1.0☠️🦊
 <h1 align="center">Introdução📋:</h1>
 
-Este script foi criado para permitir a realização de ataques de negação de serviço (DoS) distribuídos (DDoS). Ele usa força bruta para enviar vários pedidos HTTP para um servidor web específico, o que resulta em um grande aumento na carga de trabalho do servidor, tornando-o lento ou até mesmo inacessível. O script foi projetado para ser simples de usar, permitindo que qualquer pessoa possa executar um ataque DDoS com apenas alguns cliques.es e intuitiva, o script permite que o usuário insira os dados que deseja consultar e obtenha as informações relevantes de forma rápida e fácil. 🚀
-
+Este script foi criado para permitir a realização de ataques de negação de serviço (DoS) distribuídos (DDoS). Ele usa força bruta para enviar vários pedidos HTTP para um servidor web específico, o que resulta em um grande aumento na carga de trabalho do servidor, tornando-o lento ou até mesmo inacessível. O script foi projetado para ser simples de usar, permitindo que qualquer pessoa possa executar um ataque DDoS com apenas alguns cliques☠️🌐
 <h2 align="center">Funcionamento 🛠️</h1>
 Este script usa o protocolo TCP para enviar vários pacotes de dados para o endereço IP especificado. O objetivo é sobrecarregar o servidor de destino com uma grande quantidade de tráfego, o que resulta em um desempenho lento ou até mesmo uma parada completa.
 
