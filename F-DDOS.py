@@ -17,23 +17,20 @@ class bcolors:
     ABANG ='\033[31m'   
 
 def usage():
-    print (Fore.MAGENTA + """
+    print (Fore.MAGENTA + r"""
     
  ______     ____________ _____ _____ 
  |  ___|    |  _  \  _  \  _  /  ___|
  | |_ ______| | | | | | | | | \ `--. 
  |  _|______| | | | | | | | | |`--. \
  | |        | |/ /| |/ /\ \_/ /\__/ /
- \_|        |___/ |___/  \___/\____/  
-                                                                                                                                                                                                                           
+ \_|        |___/ |___/  \___/\____/  v1.0
+                                        """)                                                                                                                                                                                   
+    print("""
     \033[1;91m<═══\033[1;41m\033[1;97m by FOXS BLINTERS \033[;0m\033[1;91m═══>\033[1;92m 
                                           
  \033[93m 🦊MODO DE USO: \033[92m python F-DDOS.py \033[91m IP (o ip do seu alvo)  \033[31m PORTA (padrao: 80) \033[95m Quantidade (padrao: 200000) \033[1;92    
           """)
-    print("""
-     
-    
-    """)
 
 
 def flood(korbanmu, vport, durasi):
