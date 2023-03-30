@@ -28,6 +28,5 @@ python install.py
 
 ```
 python F-DDOS.py  IP (o ip do seu alvo)   PORTA (padrao: 80)  Quantidade (padrao: 200000)
-ex: python F-DDOS.py 
-python F-DDOS.py 150.162.2.15 80 9999
+ex: python F-DDOS.py 150.162.2.15 80 9999
 ```
