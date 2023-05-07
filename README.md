@@ -20,7 +20,7 @@ Ao executar esse script, o usuário pode especificar o endereço IP do servidor 
 Para utilizar o "F-DDOS", basta colocar os comandos abaixo para executar o script no terminal. 📝:
 ```sh
 git clone https://github.com/FoxsBlintersOFC07/F-DDOS.git
-cd F-DDOS.py
+cd F-DDOS
 python install.py
 ```
 ## Como usar:☠️✅
